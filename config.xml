@@ -19,7 +19,7 @@
 	
 	
 	
-	<pl ugi n na me ="cordova-plugin-dialogs"/ >
+	<pluginname ="cordova-plugin-dialogs"/>
 	     
 
 </widget>
