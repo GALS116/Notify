@@ -19,7 +19,7 @@
 	
 	
 	
-<pluginname="cordova-plugin-dialogs"/>
+<plugin name="cordova-plugin-dialogs"/>
 	     
 
 </widget>
